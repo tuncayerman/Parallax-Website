@@ -80,3 +80,7 @@ Build a Landing that is functionally similar to this: [Parallax Website](https:/
 
 ## Happy coding!
 
+
+
+This site is published at https://e2295-tuncay.github.io/Parallax-Website/.
+
